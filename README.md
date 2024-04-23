@@ -1,93 +1,33 @@
-# D-Lab [WorkshopName] Workshop
+# D-Lab Prompt Engineering Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
+[![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1wtJCPiqzLwu5SL2eUH0N7KtHW-5IZd9Fe6-m3OOvO5Y/edit#slide=id.g25e89208c01_0_41)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for D-Lab [WorkshopName] workshop. 
+This repository contains the materials for D-Lab's Prompt Engineering workshop. 
 
 ### Prerequisites
-We recommend attending [D-LabWorkshop1](D-LabWorkshop1Link),
-[D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops) prior to this workshop.
-
+No prior experience is required.
 Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
 
 ## Workshop Goals
 
-In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then,
-we’ll explore [Aim2]. 
-
-_Only if necessary:_ If you are not familiar with material in
-[D-LabWorkshop1](D-LabWorkshop1Link), [D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops), we recommend attending those
-workshops first.
+In this workshop, we provide an introduction to prompt engineering using ChatGPT. We will discuss several prompting techniques, and cover error strategies to resolve problems. 
 
 ## Learning Objectives
 
 After this workshop, you will be able to:
 
-- [LearningObjective1].
-- [LearningObjective2].
-- [LearningObjective3].
+- Understand what prompt engineering is.
+- What techniques you can use to improve your prompts. 
+- What error strategies you can use to resolve issues.
 
 This workshop does not cover the following:
 
-- [NotCovered1]. These are covered in [D-LabWorkshopName](URL).
-- [NotCovered2]. These are covered in [D-LabWorkshopName](URL).
-
+- The technical foundations of GPT and LLMs. These are covered in [GPT Fundamentals](https://github.com/dlab-berkeley/GPT-Fundamentals).
 
 ## Installation Instructions
 
-We will use [RStudio/Python] to go through the workshop materials, which requires installation of [Software]. Complete the following steps:
-
-1. This step(s) details software to download, with a link.
-2. Download these workshop materials:
-    * Click the green "Code" button in the top right of the repository information.
-    * Click "Download Zip".
-    * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
-3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering [GitCloneCommand].
-
-## Is [Language] not Working on Your Computer?
-
-If you do not have [Language] installed and the materials loaded on your
-workshop by the time it starts, we *strongly* recommend using the UC Berkeley
-Datahub to run the materials for these lessons. You can access the DataHub by
-clicking the following button:
-
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-
-The DataHub downloads this repository, along with any necessary packages, and
-allows you to run the materials in an RStudio instance on UC Berkeley's servers.
-No installation is necessary from your end - you only need an internet browser
-and a CalNet ID to log in. By using the DataHub, you can save your work and come
-back to it at any time. When you want to return to your saved work, just go
-straight to the [D-Lab DataHub](https://dlab.datahub.berkeley.edu), sign in, and
-you click on the `[Workshop-Name]` folder.
-
-If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
-
-By using this button, however, you cannot save your work.
-
-
-## Run the Code
-
-Now that you have all the required software and materials, you need to run the code:
-
-Provide instructions on running the code, including how to load relevant software (RStudio, Jupyter Notebooks, etc.) and which file to open up. See other repositories for examples.
-
-Additionally, provide instructions on how to run code once it’s open (running Jupyter cells, RMarkdown cells, etc.).
-
-# Additional Resources
-
-Check out the following resources to learn more about [Workshop topics]:
-
-* [Resource1](LinkToResource1): _Explain Resource 1_
-* [Resource2](LinkToResource2): _Explain Resource 2_
-* [...]
-
+No installation is necessary. We will use [ChatGPT](https://chat.openai.com/) which does not require you to log in.
 
 # About the UC Berkeley D-Lab
 
@@ -95,19 +35,7 @@ D-Lab works with Berkeley faculty, research staff, and students to advance data-
 
 Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. You can view our [calendar](https://dlab.berkeley.edu/events/calendar) for upcoming events, learn about how to utilize our [consulting](https://dlab.berkeley.edu/consulting) and [data](https://dlab.berkeley.edu/data) services, and check out upcoming [workshops](https://dlab.berkeley.edu/events/workshops).
 
-# Other D-Lab [Language] Workshops
+# Other D-Lab Workshops
 
-Here are other [Language] workshops offered by the D-Lab:
-
-## Basic Competency
-
-**Provide a list of workshops here.**
-
-## Intermediate/Advanced Competency
-
-**Provide a list of workshops here.**
-
-# Contributors
-
-**Provide a list of contributors here, with links to their webpages (D-Lab or
-private).**
+Here are other LLM-related workshops offered by the D-Lab:
+[GPT Fundamentals](https://github.com/dlab-berkeley/GPT-Fundamentals)
