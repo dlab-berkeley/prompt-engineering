@@ -25,10 +25,10 @@ This workshop does not cover the following:
 
 - The technical foundations of GPT and LLMs. These are covered in [GPT Fundamentals](https://github.com/dlab-berkeley/GPT-Fundamentals).
 
-## Installation Instructions
+## Resources
 
 No installation is necessary. We will use the following resources:
-- [![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1wtJCPiqzLwu5SL2eUH0N7KtHW-5IZd9Fe6-m3OOvO5Y/edit#slide=id.g25e89208c01_0_41) The slides for this workshop.
+- [The slides for this workshop](https://docs.google.com/presentation/d/1wtJCPiqzLwu5SL2eUH0N7KtHW-5IZd9Fe6-m3OOvO5Y/edit#slide=id.g25e89208c01_0_41).
 - [ChatGPT](https://chat.openai.com/) (does not require login).
 
 # About the UC Berkeley D-Lab
