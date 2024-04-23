@@ -27,7 +27,9 @@ This workshop does not cover the following:
 
 ## Installation Instructions
 
-No installation is necessary. We will use [ChatGPT](https://chat.openai.com/) which does not require you to log in.
+No installation is necessary. We will use the following resources:
+- [![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1wtJCPiqzLwu5SL2eUH0N7KtHW-5IZd9Fe6-m3OOvO5Y/edit#slide=id.g25e89208c01_0_41) The slides for this workshop.
+- [ChatGPT](https://chat.openai.com/) (does not require login).
 
 # About the UC Berkeley D-Lab
 
