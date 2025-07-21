@@ -11,7 +11,7 @@ Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops
 
 ## Workshop Goals
 
-In this workshop, we provide an introduction to prompt engineering using ChatGPT. We will discuss several prompting techniques, and cover error strategies to resolve problems. 
+In this workshop, we provide an introduction to prompt engineering using LLM chatbots like OpenAI's ChatGPT, Anthropic's Claude and Google's Gemini. We will offer an overview of LLM chatbots, and discuss several prompting techniques and tips.
 
 ## Learning Objectives
 
@@ -19,7 +19,7 @@ After this workshop, you will be able to:
 
 - Understand what prompt engineering is.
 - What techniques you can use to improve your prompts. 
-- What error strategies you can use to resolve issues.
+- What strategies you can use to resolve issues.
 
 This workshop does not cover the following:
 
