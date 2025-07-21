@@ -11,7 +11,7 @@ Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops
 
 ## Workshop Goals
 
-In this workshop, we provide an introduction to prompt engineering using LLM chatbots like OpenAI's ChatGPT, Anthropic's Claude and Google's Gemini. We will offer an overview of LLM chatbots, and discuss several prompting techniques and tips.
+In this workshop, we provide an introduction to prompt engineering using LLM chatbots like OpenAI's ChatGPT, Anthropic's Claude and Google's Gemini. Prompt engineering is the art of effectively communicating with AI to elicit desired results. We will offer an overview of LLM chatbots, and discuss several prompting techniques and tips.
 
 ## Learning Objectives
 
